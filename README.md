@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=44&duration=4000&pause=7000&color=2D9CDB&center=true&vCenter=true&width=900&height=70&lines=Samuel+Appiah+Kubi" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=10000&color=2D9CDB&center=true&vCenter=true&width=900&height=70&lines=Samuel+Appiah+Kubi" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=30&duration=3500&pause=1500&color=57A6C4&center=true&vCenter=true&width=800&height=50&lines=Geospatial+Intelligence+Engineer;Remote+Sensing+%2B+Deep+Learning;Building+AI+for+Africa" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=37&duration=3500&pause=1500&color=57A6C4&center=true&vCenter=true&width=800&height=50&lines=Geospatial+Intelligence+Engineer;Remote+Sensing+%2B+Deep+Learning;Building+AI+for+Africa" alt="Role" />
 
 <br/>
 
