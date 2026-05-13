@@ -23,7 +23,7 @@
 ## `$ whoami`
 
 ```yaml
-name        : "[Your Full Name]"
+name        : "Samuel Appiah Kubi"
 role        : "Geospatial Intelligence Engineer · AI Researcher"
 affiliation : "Kwame Nkrumah University of Science and Technology (KNUST)"
 department  : "Geomatic Engineering"
