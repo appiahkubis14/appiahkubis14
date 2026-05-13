@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=54&duration=4000&pause=10000&color=2D9CDB&center=true&vCenter=true&width=900&height=70&lines=Samuel+Appiah+Kubi" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=64&duration=10000&pause=10000&color=2D9CDB&center=true&vCenter=true&width=900&height=70&lines=Samuel+Appiah+Kubi" alt="Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=37&duration=3500&pause=1500&color=57A6C4&center=true&vCenter=true&width=800&height=50&lines=Geospatial+Intelligence+Engineer;Remote+Sensing+%2B+Deep+Learning;Building+AI+for+Africa" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=47&duration=3500&pause=1500&color=57A6C4&center=true&vCenter=true&width=800&height=50&lines=Geospatial+Intelligence+Engineer;Software+Engineer+%7C+AI+Researcher;Remote+Sensing+%2B+Deep+Learning;Building+AI+for+Africa" alt="Role" />
 
 <br/>
 
@@ -14,7 +14,6 @@
 &nbsp;
 <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
 
-
 <img src="https://komarev.com/ghpvc/?username=appiahkubis14&label=Profile+Views&color=2D9CDB&style=flat-square" alt="profile views" />
 
 </div>
@@ -25,7 +24,7 @@
 
 ```yaml
 name        : "Samuel Appiah Kubi"
-role        : "Geospatial Intelligence Engineer · AI Researcher"
+role        : "Geospatial Intelligence Engineer · Software Engineer · AI Researcher"
 institution : "Kwame Nkrumah University of Science and Technology (KNUST)"
 department  : "Geomatic Engineering"
 location    : "Kumasi, Ghana 🇬🇭"
@@ -33,15 +32,16 @@ focus:
   - "Sensor fusion for road infrastructure assessment"
   - "Satellite + UAV deep learning for environmental monitoring"
   - "Production AI systems for smallholder agriculture"
+  - "Full-stack software engineering & backend systems"
 currently   : "Writing papers · Building open-source geospatial AI"
-open_to     : "Research collaborations · PhD opportunities · Consulting"
+open_to     : "Research collaborations · PhD opportunities · Consulting · SWE roles"
 ```
 
 ---
 
 ### 🛰️ What I Build
 
-I work at the intersection of **geospatial engineering** and **deep learning** — turning satellite imagery, smartphone sensors, and UAV data into actionable intelligence for infrastructure, conservation, and agriculture across Africa.
+I work at the intersection of **geospatial engineering**, **software engineering**, and **deep learning** — turning satellite imagery, smartphone sensors, and UAV data into actionable intelligence for infrastructure, conservation, and agriculture across Africa.
 
 > *How do we make precision geospatial tools accessible on a $0 hardware budget, at the scale of an entire continent?*
 
@@ -51,9 +51,9 @@ I work at the intersection of **geospatial engineering** and **deep learning** �
 
 | Project | Description | Key Result | Target Journal |
 |---|---|---|---|
-|**[MMFF](https://github.com/appiahkubis14/mmff)** | LiDAR-accurate pothole dimensioning from a smartphone camera + IMU. No specialised hardware. | Depth MAE **0.28 m** · **30 fps** on CPU | IEEE T-ITS |
-|**[Afarinsene](https://github.com/appiahkubis14/afarinsene)** | Production AI for cocoa disease (CSSVD) detection from smartphone images. Deployed to 1,000+ farmers. | **95.8%** accuracy · **< 1 min** diagnosis | Comput. Electron. Agric. |
-|**[Atewa-Watch](https://github.com/appiahkubis14/atewa-watch)** | Sentinel-1/2 + UAV fusion for illegal mining detection in a 23,663 ha tropical forest reserve. | Recall **82%** · SAR cloud-penetrating | Remote Sensing / IEEE JSTARS | -->
+| 🛣️ **[MMFF](https://github.com/appiahkubis14/mmff)** | LiDAR-accurate pothole dimensioning from a smartphone camera + IMU. No specialised hardware. | Depth MAE **0.28 m** · **30 fps** on CPU | IEEE T-ITS |
+| 🌿 **[Afarinsene](https://github.com/appiahkubis14/afarinsene)** | Production AI for cocoa disease (CSSVD) detection from smartphone images. Deployed to 1,000+ farmers. | **95.8%** accuracy · **< 1 min** diagnosis | Comput. Electron. Agric. |
+| 🌳 **[Atewa-Watch](https://github.com/appiahkubis14/atewa-watch)** | Sentinel-1/2 + UAV fusion for illegal mining detection in a 23,663 ha tropical forest reserve. | Recall **82%** · SAR cloud-penetrating | Remote Sensing / IEEE JSTARS | -->
 
 ---
 
@@ -63,9 +63,20 @@ I work at the intersection of **geospatial engineering** and **deep learning** �
 
 **Languages**&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Software Engineering**&nbsp;&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **AI / ML**&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -80,13 +91,6 @@ I work at the intersection of **geospatial engineering** and **deep learning** �
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-5CAD3B?style=flat-square&logoColor=white)
-
-**Deployment**&nbsp;&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Earth Observation**&nbsp;&nbsp;
 ![Sentinel-1](https://img.shields.io/badge/Sentinel--1%20SAR-0077B5?style=flat-square&logoColor=white)
@@ -140,7 +144,7 @@ I work at the intersection of **geospatial engineering** and **deep learning** �
 
 ### 🤝 Let's Collaborate
 
-I am open to **Earth observation** · **Precision agriculture AI** · **Smart infrastructure** · **PhD / research positions**
+I am open to **Earth observation** · **Precision agriculture AI** · **Smart infrastructure** · **Full-stack / backend engineering** · **PhD / research positions**
 
 <div align="center">
 
