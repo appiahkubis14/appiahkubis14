@@ -20,7 +20,7 @@
 
 ---
 
-### `$ whoami`
+<!-- ### `$ whoami`
 
 ```yaml
 name        : "Samuel Appiah Kubi"
@@ -35,7 +35,7 @@ focus:
   - "Full-stack software engineering & backend systems"
 currently   : "Writing papers · Building open-source geospatial AI"
 open_to     : "Research collaborations · PhD opportunities · Consulting · SWE roles"
-```
+``` -->
 
 ---
 
@@ -119,13 +119,13 @@ I work at the intersection of **geospatial engineering**, **software engineering
 
 ---
 
-### 📄 Publications in Preparation
+<!-- ### 📄 Publications in Preparation
 
 | Title | Venue | Status |
 |---|---|---|
 | MMFF: Multi-Modal Fusion Framework for Metric-Accurate Pothole Dimensioning | *IEEE T-ITS* | ✍️ In preparation |
 | Multi-Sensor Deep Learning for Illegal Mining Detection — Atewa Forest Reserve, Ghana | *Remote Sensing / IEEE JSTARS* | ✍️ In preparation |
-| Afarinsene: Production Deep Learning for Cocoa Disease Detection — 95.8% Accuracy | *Comput. Electron. Agric.* | ✍️ In preparation |
+| Afarinsene: Production Deep Learning for Cocoa Disease Detection — 95.8% Accuracy | *Comput. Electron. Agric.* | ✍️ In preparation | -->
 
 ---
 
