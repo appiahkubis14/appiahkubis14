@@ -107,11 +107,11 @@ I work at the intersection of **geospatial engineering**, **software engineering
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=appiahkubis14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=appiahkubis14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=appiahkubis14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/><br/>
+<br/><br/> -->
 
 <img src="https://streak-stats.demolab.com?user=appiahkubis14&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 
