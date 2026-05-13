@@ -47,13 +47,13 @@ I work at the intersection of **geospatial engineering** and **deep learning** �
 
 ---
 
-### 🔬 Research Projects
+<!-- ### 🔬 Research Projects
 
 | Project | Description | Key Result | Target Journal |
 |---|---|---|---|
 |**[MMFF](https://github.com/appiahkubis14/mmff)** | LiDAR-accurate pothole dimensioning from a smartphone camera + IMU. No specialised hardware. | Depth MAE **0.28 m** · **30 fps** on CPU | IEEE T-ITS |
 |**[Afarinsene](https://github.com/appiahkubis14/afarinsene)** | Production AI for cocoa disease (CSSVD) detection from smartphone images. Deployed to 1,000+ farmers. | **95.8%** accuracy · **< 1 min** diagnosis | Comput. Electron. Agric. |
-|**[Atewa-Watch](https://github.com/appiahkubis14/atewa-watch)** | Sentinel-1/2 + UAV fusion for illegal mining detection in a 23,663 ha tropical forest reserve. | Recall **82%** · SAR cloud-penetrating | Remote Sensing / IEEE JSTARS |
+|**[Atewa-Watch](https://github.com/appiahkubis14/atewa-watch)** | Sentinel-1/2 + UAV fusion for illegal mining detection in a 23,663 ha tropical forest reserve. | Recall **82%** · SAR cloud-penetrating | Remote Sensing / IEEE JSTARS | -->
 
 ---
 
