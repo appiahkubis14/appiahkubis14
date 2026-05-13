@@ -32,22 +32,26 @@
 
 ---
 
-## `$ whoami`
+## 👤 About Me
 
-```yaml
-name        : "Samuel Appiah Kubi"
-role        : "Geospatial Intelligence Engineer · AI Researcher"
-institution : "Kwame Nkrumah University of Science and Technology (KNUST)"
-department  : "Geomatic Engineering"
-location    : "Kumasi, Ghana 🇬🇭"
-focus:
-  - "Sensor fusion for road infrastructure assessment"
-  - "Satellite + UAV deep learning for environmental monitoring"
-  - "Production AI systems for smallholder agriculture"
-currently   : "Writing papers · Building open-source geospatial AI"
-open_to     : "Research collaborations · PhD opportunities · Consulting"
-```
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
+**Samuel Appiah Kubi**
+*Geospatial Intelligence Engineer · AI Researcher*
+
+| | |
+|---|---|
+| 🏛️ **Institution** | Kwame Nkrumah University of Science and Technology |
+| 🏗️ **Department** | Geomatic Engineering |
+| 📍 **Location** | Kumasi, Ghana 🇬🇭 |
+| 🔭 **Currently** | Writing papers · Building open-source geospatial AI |
+
+    </td>
+    <td valign="top" width="45%">
+
+**Research Focus**
 ---
 
 ## 🛰️ What I Build
