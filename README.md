@@ -10,7 +10,7 @@
 &nbsp;
 <a href="mailto:appiahkubisam@gmail.com"><img src="https://img.shields.io/badge/Gmail-appiahkubisam@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 &nbsp;
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/samuel-appiah-kubi-b52633333/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 &nbsp;
 <a href="https://scholar.google.com/"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
 
