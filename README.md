@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="samuel_logo_light.svg" width="220" alt="Samuel Appiah Kubi Logo"/>
+<img src="samuel_logo_light.svg" width="250" alt="Samuel Appiah Kubi Logo"/>
 
 <br/>
 
