@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="samuel_logo_dark.svg" width="180" alt="Samuel Appiah Kubi"/>
+<img src="samuel_logo_dark.svg" width="300" alt="Samuel Appiah Kubi"/>
 
 <br/><br/>
 
@@ -53,8 +53,5 @@ Camera + IMU + GPS · 30 fps · Depth MAE 0.28 m · 79% jitter reduction · 50 k
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=appiahkubis14&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&icon_color=ea580c&title_color=ea580c&text_color=fdba74)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appiahkubis14&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ea580c&text_color=fdba74)
 
 </div>
