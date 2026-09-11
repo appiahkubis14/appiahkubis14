@@ -7,18 +7,18 @@ I specialize in building production-grade, open-source Python frameworks that br
 
 ##  My Earth Observation Ecosystem
 
-###  Core Deep-Tech Engines
-* **[ps-gnn](https://github.com/EOCoreINT/ps-gnn)**: Re-engineering Persistent Scatterer (PS) selection by reframing point cloud identification as spatial node classification via an 8-head **Graph Attention Network (GAT)**.
-* **[pyunwrap-insar](https://github.com/EOCoreINT/pyunwrap)**: A physics-informed neural network (AmbiguityNet) that resolves radar phase-unwrapping boundaries by enforcing integer ambiguity matrices \(K\) through a straight-through estimator rounding layer.
+###  Core Deep-Tech Engines (Under Active Development & Intensive Testing)
+* **[ps-gnn](https://github.com/EOCoreINT/ps-gnn)** `[Status: Closed Beta / In Testing]`: Re-engineering Persistent Scatterer (PS) selection by reframing point cloud identification as spatial node classification via an 8-head **Graph Attention Network (GAT)**.
+* **[pyunwrap-insar](https://github.com/EOCoreINT/pyunwrap)** `[Status: Closed Beta / In Testing]`: A physics-informed neural network (AmbiguityNet) that resolves radar phase-unwrapping boundaries by enforcing integer ambiguity matrices \(K\) through a straight-through estimator rounding layer.
 
 ###  Ingestion & Production Pipelines
-* **[pygeovision](https://github.com/EOCoreINT/pygeovision)**: An enterprise-ready GeoAI engine supporting **49 automated task pipelines** backed by an audited model registry.
-* **[pygeofetch](https://github.com/EOCoreINT/pygeofetch)**: A programmatic federated data-access layer spanning 24 providers with built-in pre-download burst screening.
+* **[pygeofetch](https://github.com/EOCoreINT/pygeofetch)** `[Status: Stable / Public Production]`: A programmatic federated data-access layer spanning 24 providers with built-in pre-download burst screening and a pure-Python Windows-native baseline InSAR stack.
+* **[pygeovision](https://github.com/EOCoreINT/pygeovision)** `[Status: Staged Release / In Testing]`: An enterprise-ready GeoAI engine supporting **49 automated task pipelines** backed by an audited model registry.
 
 ---
 
 ##  Community & Ecosystem 
-* **[EOCoreINT GitHub Organization](https://github.com/EOCoreINT)**: Explore the active development hub, code contributions, and upcoming software rollouts.
+* **[EOCoreINT GitHub Organization](https://github.com/EOCoreINT)**: Explore our active development hub, open-source organization contributions, and upcoming software rollouts.
 * **[EOCoreINT Official Website](https://www.eocoreint.com/)**: Access comprehensive documentation, platform guides, and project case studies.
 
 ---
