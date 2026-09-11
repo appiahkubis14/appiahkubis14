@@ -12,7 +12,7 @@ I specialize in building production-grade, open-source Python frameworks that br
 * **[pyunwrap-insar](https://github.com/EOCoreINT/pyunwrap)**: A physics-informed neural network (AmbiguityNet) that resolves radar phase-unwrapping boundaries by enforcing integer ambiguity matrices \(K\) through a straight-through estimator rounding layer.
 
 ###  Ingestion & Production Pipelines
-* **[pygeovision](https://github.com/EOCoreINT/pygeovision)**: An enterprise-ready GeoAI engine supporting **49 automated task pipelines** backed by an audited 77-model registry.
+* **[pygeovision](https://github.com/EOCoreINT/pygeovision)**: An enterprise-ready GeoAI engine supporting **49 automated task pipelines** backed by an audited model registry.
 * **[pygeofetch](https://github.com/EOCoreINT/pygeofetch)**: A programmatic federated data-access layer spanning 24 providers with built-in pre-download burst screening.
 
 ---
