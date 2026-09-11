@@ -1,57 +1,28 @@
-<div align="center">
+# Hi, I'm Samuel Appiah Kubi 🌍🛰️
+**Incoming Copernicus Master in Digital Earth (GeoDSc) Student | GeoAI & Advanced InSAR Engineer**
 
-<img src="samuel_logo_dark.svg" width="300" alt="Samuel Appiah Kubi"/>
-
-<br/><br/>
-
-# Samuel Appiah Kubi
-
-**Geospatial AI · Open-Source · Ghana**
-
-[![GitHub](https://img.shields.io/badge/GitHub-appiahkubis14-0d1117?style=flat-square&logo=github&logoColor=ea580c)](https://github.com/appiahkubis14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuel--appiah--kubi-0d1117?style=flat-square&logo=linkedin&logoColor=ea580c)](https://linkedin.com/in/samuel-appiah-kubi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-samuelappiahkubi.com-0d1117?style=flat-square&logo=vercel&logoColor=ea580c)](https://samuelappiahkubi.com)
-[![Email](https://img.shields.io/badge/Email-appiahkubis14@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=ea580c)](mailto:appiahkubis14@gmail.com)
-
-</div>
+I specialize in building production-grade, open-source Python frameworks that bridge the intersection of deep learning architectures (GATs, PINNs) and physical Earth Observation invariants.
 
 ---
 
-First Class Honours in Geomatic Engineering · KNUST, Ghana · 2024. Admitted to the Copernicus Master's in Digital Earth (Erasmus Mundus) · Salzburg, Austria · 2026. I build production geospatial AI systems — from satellite data acquisition to deep learning inference to web publication.
+## 🛠️ My Earth Observation Ecosystem
+
+### 💎 Core Deep-Tech Engines
+* **[ps-gnn](https://github.com/EOCoreINT/ps-gnn)**: Re-engineering Persistent Scatterer (PS) selection by reframing point cloud identification as spatial node classification via an 8-head **Graph Attention Network (GAT)**.
+* **[pyunwrap-insar](https://github.com/EOCoreINT/pyunwrap)**: A physics-informed neural network (AmbiguityNet) that resolves radar phase-unwrapping boundaries by enforcing integer ambiguity matrices \(K\) through a straight-through estimator rounding layer.
+
+### 🔄 Ingestion & Production Pipelines
+* **[pygeovision](https://github.com/EOCoreINT/pygeovision)**: An enterprise-ready GeoAI engine supporting **49 automated task pipelines** backed by an audited 77-model registry.
+* **[pygeofetch](https://github.com/EOCoreINT/pygeofetch)**: A programmatic federated data-access layer spanning 24 providers with built-in pre-download burst screening.
 
 ---
 
-## Open-Source
-
-| Package | Description | License |
-|---|---|---|
-| [**PyGeoFetch**](https://github.com/appiahkubis14/pygeofetch) [![PyPI](https://img.shields.io/pypi/v/pygeofetch?color=ea580c&label=&logo=pypi&logoColor=white)](https://pypi.org/project/pygeofetch/) | Search & download from 22+ satellite providers in one command | MIT |
-| [**PyGeoVision**](https://github.com/appiahkubis14/PyGeoVision) [![PyPI](https://img.shields.io/pypi/v/pygeovision?color=ea580c&label=&logo=pypi&logoColor=white)](https://pypi.org/project/pygeovision/) | 24 GeoAI subsystems · 14 model architectures · 10 end-to-end pipelines | Apache 2.0 |
-| [**raster2pm**](https://github.com/appiahkubis14/raster2pm) [![PyPI](https://img.shields.io/pypi/v/raster2pm?color=ea580c&label=&logo=pypi&logoColor=white)](https://pypi.org/project/raster2pm/) | GeoTIFF → web-ready PMTiles in one command | MIT |
+## 🌐 Community & Ecosystem 
+* **[EOCoreINT GitHub Organization](https://github.com/EOCoreINT)**: Explore the active development hub, code contributions, and upcoming software rollouts.
+* **[EOCoreINT Official Website](https://www.eocoreint.com/)**: Access comprehensive documentation, platform guides, and project case studies.
 
 ---
 
-## Research
-
-**MMFF** — Multi-Modal Fusion Framework · *IEEE ITS, in preparation*
-Camera + IMU + GPS · 30 fps · Depth MAE 0.28 m · 79% jitter reduction · 50 km ground truth
-
-| Project | Result |
-|---|---|
-| Mars Gully Digital Twin | IoU > 0.65 · F1 > 0.75 on HiRISE/CTX |
-| Coastal Erosion Digital Twin | MAE < 8 m · 3-month forecasts |
-| IonoForecaster | MAE < 0.08 · 6-hour S4 scintillation |
-| Atewa Illegal Mining Detector | Recall 82% · F1 0.79 |
-
----
-
-## Stack
-
-`PyTorch` `TensorFlow` `YOLOv8` `U-Net` `SegFormer` `SAM` `GDAL` `Rasterio` `STAC` `PMTiles` `Google Earth Engine` `Docker` `AWS` `Python` `Linux`
-
----
-
-<div align="center">
-
-
-</div>
+## 🔬 Scientific Validation Campaigns
+* **[Mexico City Subsidence Project](https://github.com/EOCoreINT/mexico-subsidence-project)**: Programmatic SBAS time-series analysis over a **502.5 GB / 67-scene Sentinel-1 stack**, mapping vertical velocities up to \(-35.5 \text{ cm/year}\).
+* **[Bu'ertai Mining Subsidence Report](https://github.com/EOCoreINT/buertai-insar-optical)**: Implementation of a regime-aware multi-modal handoff. Automatically routes processing to an optical **Pixel Offset Tracking (POT)** engine when InSAR decorrelates, recovering **226.27m of displacement**.
