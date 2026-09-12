@@ -25,5 +25,5 @@ I specialize in building production-grade, open-source Python frameworks that br
 ---
 
 ##  Scientific Validation Campaigns
-* **[Mexico City Subsidence Project](https://://github.com/mexico-subsidence-project)**: End-to-end programmatic SBAS time-series analysis over a **502.5 GB / 67-scene Sentinel-1 SLC stack** on a single machine. Mapped extreme urban subsidence vertical velocities up to **$-35.5 \text{ cm/year}$** while preventing 360 GB of redundant downloads via intelligent orbital track pre-filtering.
+* **[Mexico City Subsidence Project](https://github.com/EOCoreINT/mexico-subsidence-project)**: End-to-end programmatic SBAS time-series analysis over a **502.5 GB / 67-scene Sentinel-1 SLC stack** on a single machine. Mapped extreme urban subsidence vertical velocities up to **$-35.5 \text{ cm/year}$** while preventing 360 GB of redundant downloads via intelligent orbital track pre-filtering.
 
