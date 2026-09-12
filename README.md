@@ -19,7 +19,7 @@ I specialize in building production-grade, open-source Python frameworks that br
 
 ##  Community, Credentials & Ecosystem 
 * **ORCID iD:** [0009-0002-1376-108X](https://orcid.org)
-* **EOCoreINT GitHub Organization:** [://github.com](https://://github.com) — Explore our active development hub, code contributions, and upcoming software rollouts.
+* **EOCoreINT GitHub Organization:** [://github.com](https://github.com/EOCoreINT) — Explore our active development hub, code contributions, and upcoming software rollouts.
 * **EOCoreINT Official Website:** [eocoreint.com](https://eocoreint.com) — Access comprehensive documentation, platform guides, and project case studies.
 
 ---
