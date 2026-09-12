@@ -13,7 +13,7 @@ I specialize in building production-grade, open-source Python frameworks that br
 
 ###  Ingestion & Production Pipelines
 * **[pygeofetch](https://github.com)** `[`[DOI: 10.5281/zenodo.22087230](https://zenodo.org/records/22087230)`]`: **[Stable / Public Production]** A programmatic federated data-access layer spanning 24 providers with built-in pre-download burst screening (`PreflightGate`) and a native, pure-Python Windows-compatible InSAR processing chain.
-* **[pygeovision](https://github.com)** `[`[DOI: 10.5281/zenodo.22258220]([https://doi.org](https://zenodo.org/records/22258220)`]`: **[Staged Release / Closed Beta]** An enterprise-ready GeoAI engine supporting **49 automated task pipelines**, chainable preprocessing analytics, and an audited model registry (Prithvi-EO-2.0, DINOv3) driven by an LLM-backed natural language query interface (*GeoAgent*).
+* **[pygeovision](https://github.com)** `[`[DOI: 10.5281/zenodo.22258220](https://zenodo.org/records/22258220)`]`: **[Staged Release / Closed Beta]** An enterprise-ready GeoAI engine supporting **49 automated task pipelines**, chainable preprocessing analytics, and an audited model registry (Prithvi-EO-2.0, DINOv3) driven by an LLM-backed natural language query interface (*GeoAgent*).
 
 ---
 
