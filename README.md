@@ -38,7 +38,7 @@ spatial deep learning (GATs, PINNs) and physical Earth Observation invariants.
 
 ---
 
-## 📬 Community, Credentials & Ecosystem
+##  Community, Credentials & Ecosystem
 
 - **ORCID iD:** [0009-0002-1376-108X](https://orcid.org/0009-0002-1376-108X)
 - **EOCoreINT GitHub:** [github.com/EOCoreINT](https://github.com/EOCoreINT)
@@ -46,7 +46,7 @@ spatial deep learning (GATs, PINNs) and physical Earth Observation invariants.
 
 ---
 
-## 🔬 Scientific Validation Campaigns
+##  Scientific Validation Campaigns
 
 - **[Mexico City Subsidence Project](https://github.com/EOCoreINT/mexico-subsidence-project)**
   End-to-end programmatic SBAS time-series analysis over a **502.5 GB / 67-scene
