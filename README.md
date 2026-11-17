@@ -1,7 +1,6 @@
 # Samuel Appiah Kubi 🌍🛰️
 
-**MSc Candidate, Copernicus Master in Digital Earth (GeoDSc Track)**  
-**Radar Remote Sensing & GeoAI Researcher**  
+**MSc Candidate, Copernicus Master in Digital Earth (GeoDSc Track)**  & **Radar Remote Sensing & GeoAI Researcher**  
 
 I design and build reproducible, physics-informed machine learning frameworks for Synthetic Aperture Radar (SAR) and multi-sensor Earth Observation. My work bridges the gap between physical geodetic models and deep learning, enforcing physical invariants (e.g., phase closure, integer ambiguity) while leveraging geometric deep learning for robustness in complex, real-world terrain.
 
